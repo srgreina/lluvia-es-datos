@@ -1,0 +1,620 @@
+[
+ {
+  "ine": "29001",
+  "lat": 37.2094587,
+  "lon": -4.66026922,
+  "nombre": "Alameda"
+ },
+ {
+  "ine": "29002",
+  "lat": 36.90250323,
+  "lon": -4.11413368,
+  "nombre": "Alcaucín"
+ },
+ {
+  "ine": "29003",
+  "lat": 36.99507375,
+  "lon": -4.25967244,
+  "nombre": "Alfarnate"
+ },
+ {
+  "ine": "29004",
+  "lat": 36.97957361,
+  "lon": -4.27201165,
+  "nombre": "Alfarnatejo"
+ },
+ {
+  "ine": "29005",
+  "lat": 36.77326211,
+  "lon": -4.03990708,
+  "nombre": "Algarrobo"
+ },
+ {
+  "ine": "29006",
+  "lat": 36.57399487,
+  "lon": -5.2748105,
+  "nombre": "Algatocín"
+ },
+ {
+  "ine": "29007",
+  "lat": 36.66314911,
+  "lon": -4.5604509,
+  "nombre": "Alhaurín de la Torre"
+ },
+ {
+  "ine": "29008",
+  "lat": 36.64510025,
+  "lon": -4.68702469,
+  "nombre": "Alhaurín el Grande"
+ },
+ {
+  "ine": "29009",
+  "lat": 36.80892882,
+  "lon": -4.2160806,
+  "nombre": "Almáchar"
+ },
+ {
+  "ine": "29010",
+  "lat": 37.00211364,
+  "lon": -5.02113921,
+  "nombre": "Almargen"
+ },
+ {
+  "ine": "29011",
+  "lat": 36.82473079,
+  "lon": -4.54115435,
+  "nombre": "Almogía"
+ },
+ {
+  "ine": "29012",
+  "lat": 36.82063001,
+  "lon": -4.70685543,
+  "nombre": "Álora"
+ },
+ {
+  "ine": "29013",
+  "lat": 36.72826442,
+  "lon": -4.85529513,
+  "nombre": "Alozaina"
+ },
+ {
+  "ine": "29014",
+  "lat": 36.6337735,
+  "lon": -5.20258909,
+  "nombre": "Alpandeire"
+ },
+ {
+  "ine": "29015",
+  "lat": 37.0142215,
+  "lon": -4.55804451,
+  "nombre": "Antequera"
+ },
+ {
+  "ine": "29016",
+  "lat": 36.83903515,
+  "lon": -3.9908115,
+  "nombre": "Árchez"
+ },
+ {
+  "ine": "29017",
+  "lat": 37.09717349,
+  "lon": -4.39031416,
+  "nombre": "Archidona"
+ },
+ {
+  "ine": "29018",
+  "lat": 36.87640909,
+  "lon": -4.84547635,
+  "nombre": "Ardales"
+ },
+ {
+  "ine": "29019",
+  "lat": 36.81604305,
+  "lon": -4.0441519,
+  "nombre": "Arenas"
+ },
+ {
+  "ine": "29020",
+  "lat": 36.79859734,
+  "lon": -5.14178234,
+  "nombre": "Arriate"
+ },
+ {
+  "ine": "29021",
+  "lat": 36.64036602,
+  "lon": -5.24535471,
+  "nombre": "Atajate"
+ },
+ {
+  "ine": "29022",
+  "lat": 36.60586478,
+  "lon": -5.26864681,
+  "nombre": "Benadalid"
+ },
+ {
+  "ine": "29023",
+  "lat": 36.52379908,
+  "lon": -5.04654321,
+  "nombre": "Benahavís"
+ },
+ {
+  "ine": "29024",
+  "lat": 36.59362291,
+  "lon": -5.26022976,
+  "nombre": "Benalauría"
+ },
+ {
+  "ine": "29025",
+  "lat": 36.59306145,
+  "lon": -4.57241989,
+  "nombre": "Benalmádena"
+ },
+ {
+  "ine": "29026",
+  "lat": 36.83392411,
+  "lon": -4.19393589,
+  "nombre": "Benamargosa"
+ },
+ {
+  "ine": "29027",
+  "lat": 36.79007301,
+  "lon": -4.15992356,
+  "nombre": "Benamocarra"
+ },
+ {
+  "ine": "29028",
+  "lat": 36.71871118,
+  "lon": -5.25372291,
+  "nombre": "Benaoján"
+ },
+ {
+  "ine": "29029",
+  "lat": 36.55172394,
+  "lon": -5.27575547,
+  "nombre": "Benarrabá"
+ },
+ {
+  "ine": "29030",
+  "lat": 36.81440331,
+  "lon": -4.23504675,
+  "nombre": "Borge, El"
+ },
+ {
+  "ine": "29031",
+  "lat": 36.78802751,
+  "lon": -4.94538626,
+  "nombre": "Burgo, El"
+ },
+ {
+  "ine": "29032",
+  "lat": 37.04734424,
+  "lon": -4.86223442,
+  "nombre": "Campillos"
+ },
+ {
+  "ine": "29033",
+  "lat": 36.87340554,
+  "lon": -4.08292336,
+  "nombre": "Canillas de Aceituno"
+ },
+ {
+  "ine": "29034",
+  "lat": 36.84624108,
+  "lon": -3.98822385,
+  "nombre": "Canillas de Albaida"
+ },
+ {
+  "ine": "29035",
+  "lat": 36.95081213,
+  "lon": -5.02326403,
+  "nombre": "Cañete la Real"
+ },
+ {
+  "ine": "29036",
+  "lat": 36.85384356,
+  "lon": -4.82065129,
+  "nombre": "Carratraca"
+ },
+ {
+  "ine": "29037",
+  "lat": 36.64558345,
+  "lon": -5.15413673,
+  "nombre": "Cartajima"
+ },
+ {
+  "ine": "29038",
+  "lat": 36.71005782,
+  "lon": -4.63171653,
+  "nombre": "Cártama"
+ },
+ {
+  "ine": "29039",
+  "lat": 36.89392649,
+  "lon": -4.42957972,
+  "nombre": "Casabermeja"
+ },
+ {
+  "ine": "29040",
+  "lat": 36.78480634,
+  "lon": -4.84309805,
+  "nombre": "Casarabonela"
+ },
+ {
+  "ine": "29041",
+  "lat": 36.44276754,
+  "lon": -5.27383141,
+  "nombre": "Casares"
+ },
+ {
+  "ine": "29042",
+  "lat": 36.65987005,
+  "lon": -4.75958685,
+  "nombre": "Coín"
+ },
+ {
+  "ine": "29043",
+  "lat": 36.90317629,
+  "lon": -4.33648163,
+  "nombre": "Colmenar"
+ },
+ {
+  "ine": "29044",
+  "lat": 36.84982769,
+  "lon": -4.24638382,
+  "nombre": "Comares"
+ },
+ {
+  "ine": "29045",
+  "lat": 36.83280321,
+  "lon": -3.9748181,
+  "nombre": "Cómpeta"
+ },
+ {
+  "ine": "29046",
+  "lat": 36.61781253,
+  "lon": -5.34243171,
+  "nombre": "Cortes de la Frontera"
+ },
+ {
+  "ine": "29047",
+  "lat": 37.23576989,
+  "lon": -4.48846113,
+  "nombre": "Cuevas Bajas"
+ },
+ {
+  "ine": "29048",
+  "lat": 36.87520846,
+  "lon": -5.04657706,
+  "nombre": "Cuevas del Becerro"
+ },
+ {
+  "ine": "29049",
+  "lat": 37.26765901,
+  "lon": -4.41410228,
+  "nombre": "Cuevas de San Marcos"
+ },
+ {
+  "ine": "29050",
+  "lat": 36.83118045,
+  "lon": -4.2287788,
+  "nombre": "Cútar"
+ },
+ {
+  "ine": "29051",
+  "lat": 36.42657668,
+  "lon": -5.1463572,
+  "nombre": "Estepona"
+ },
+ {
+  "ine": "29052",
+  "lat": 36.6164285,
+  "lon": -5.18909256,
+  "nombre": "Faraján"
+ },
+ {
+  "ine": "29053",
+  "lat": 36.79299972,
+  "lon": -3.89875687,
+  "nombre": "Frigiliana"
+ },
+ {
+  "ine": "29054",
+  "lat": 36.53902839,
+  "lon": -4.62378308,
+  "nombre": "Fuengirola"
+ },
+ {
+  "ine": "29055",
+  "lat": 37.1355092,
+  "lon": -4.73195066,
+  "nombre": "Fuente de Piedra"
+ },
+ {
+  "ine": "29056",
+  "lat": 36.51729026,
+  "lon": -5.3148786,
+  "nombre": "Gaucín"
+ },
+ {
+  "ine": "29057",
+  "lat": 36.54472098,
+  "lon": -5.23619755,
+  "nombre": "Genalguacil"
+ },
+ {
+  "ine": "29058",
+  "lat": 36.65596592,
+  "lon": -4.83321028,
+  "nombre": "Guaro"
+ },
+ {
+  "ine": "29059",
+  "lat": 37.11336322,
+  "lon": -4.70087934,
+  "nombre": "Humilladero"
+ },
+ {
+  "ine": "29060",
+  "lat": 36.63082475,
+  "lon": -5.12172092,
+  "nombre": "Igualeja"
+ },
+ {
+  "ine": "29061",
+  "lat": 36.58218716,
+  "lon": -4.9497999,
+  "nombre": "Istán"
+ },
+ {
+  "ine": "29062",
+  "lat": 36.7762153,
+  "lon": -4.18490516,
+  "nombre": "Iznate"
+ },
+ {
+  "ine": "29063",
+  "lat": 36.6509258,
+  "lon": -5.27452008,
+  "nombre": "Jimera de Líbar"
+ },
+ {
+  "ine": "29064",
+  "lat": 36.56447517,
+  "lon": -5.2150682,
+  "nombre": "Jubrique"
+ },
+ {
+  "ine": "29065",
+  "lat": 36.62557259,
+  "lon": -5.17110208,
+  "nombre": "Júzcar"
+ },
+ {
+  "ine": "29066",
+  "lat": 36.76258276,
+  "lon": -4.21382494,
+  "nombre": "Macharaviaya"
+ },
+ {
+  "ine": "29067",
+  "lat": 36.72034267,
+  "lon": -4.41997511,
+  "nombre": "Málaga"
+ },
+ {
+  "ine": "29068",
+  "lat": 36.37770216,
+  "lon": -5.2505015,
+  "nombre": "Manilva"
+ },
+ {
+  "ine": "29069",
+  "lat": 36.50963847,
+  "lon": -4.88406637,
+  "nombre": "Marbella"
+ },
+ {
+  "ine": "29070",
+  "lat": 36.59339039,
+  "lon": -4.63902803,
+  "nombre": "Mijas"
+ },
+ {
+  "ine": "29071",
+  "lat": 36.77101385,
+  "lon": -4.25355567,
+  "nombre": "Moclinejo"
+ },
+ {
+  "ine": "29072",
+  "lat": 37.1257807,
+  "lon": -4.65776429,
+  "nombre": "Mollina"
+ },
+ {
+  "ine": "29073",
+  "lat": 36.62984302,
+  "lon": -4.83271465,
+  "nombre": "Monda"
+ },
+ {
+  "ine": "29074",
+  "lat": 36.73390878,
+  "lon": -5.25172599,
+  "nombre": "Montejaque"
+ },
+ {
+  "ine": "29075",
+  "lat": 36.74484684,
+  "lon": -3.87667655,
+  "nombre": "Nerja"
+ },
+ {
+  "ine": "29076",
+  "lat": 36.56395395,
+  "lon": -4.85596352,
+  "nombre": "Ojén"
+ },
+ {
+  "ine": "29077",
+  "lat": 36.65668893,
+  "lon": -5.12951118,
+  "nombre": "Parauta"
+ },
+ {
+  "ine": "29079",
+  "lat": 36.92659688,
+  "lon": -4.19045032,
+  "nombre": "Periana"
+ },
+ {
+  "ine": "29080",
+  "lat": 36.76719717,
+  "lon": -4.70872909,
+  "nombre": "Pizarra"
+ },
+ {
+  "ine": "29081",
+  "lat": 36.61292429,
+  "lon": -5.14938232,
+  "nombre": "Pujerra"
+ },
+ {
+  "ine": "29082",
+  "lat": 36.71634307,
+  "lon": -4.29230385,
+  "nombre": "Rincón de la Victoria"
+ },
+ {
+  "ine": "29083",
+  "lat": 36.91580161,
+  "lon": -4.29359462,
+  "nombre": "Riogordo"
+ },
+ {
+  "ine": "29084",
+  "lat": 36.73725905,
+  "lon": -5.1654186,
+  "nombre": "Ronda"
+ },
+ {
+  "ine": "29085",
+  "lat": 36.85425695,
+  "lon": -4.02418886,
+  "nombre": "Salares"
+ },
+ {
+  "ine": "29086",
+  "lat": 36.79836567,
+  "lon": -4.01290734,
+  "nombre": "Sayalonga"
+ },
+ {
+  "ine": "29087",
+  "lat": 36.86163884,
+  "lon": -4.03365472,
+  "nombre": "Sedella"
+ },
+ {
+  "ine": "29088",
+  "lat": 37.1240068,
+  "lon": -4.86861331,
+  "nombre": "Sierra de Yeguas"
+ },
+ {
+  "ine": "29089",
+  "lat": 36.98132441,
+  "lon": -4.92158172,
+  "nombre": "Teba"
+ },
+ {
+  "ine": "29090",
+  "lat": 36.68777428,
+  "lon": -4.90449425,
+  "nombre": "Tolox"
+ },
+ {
+  "ine": "29091",
+  "lat": 36.75862084,
+  "lon": -3.95292767,
+  "nombre": "Torrox"
+ },
+ {
+  "ine": "29092",
+  "lat": 36.76519001,
+  "lon": -4.29735785,
+  "nombre": "Totalán"
+ },
+ {
+  "ine": "29093",
+  "lat": 36.93133959,
+  "lon": -4.68249864,
+  "nombre": "Valle de Abdalajís"
+ },
+ {
+  "ine": "29094",
+  "lat": 36.7827081,
+  "lon": -4.10210923,
+  "nombre": "Vélez-Málaga"
+ },
+ {
+  "ine": "29095",
+  "lat": 37.18660129,
+  "lon": -4.45078097,
+  "nombre": "Villanueva de Algaidas"
+ },
+ {
+  "ine": "29096",
+  "lat": 36.99699553,
+  "lon": -4.36394556,
+  "nombre": "Villanueva del Rosario"
+ },
+ {
+  "ine": "29097",
+  "lat": 37.02928696,
+  "lon": -4.33741698,
+  "nombre": "Villanueva del Trabuco"
+ },
+ {
+  "ine": "29098",
+  "lat": 37.18382365,
+  "lon": -4.33427797,
+  "nombre": "Villanueva de Tapia"
+ },
+ {
+  "ine": "29099",
+  "lat": 36.86183832,
+  "lon": -4.14096034,
+  "nombre": "Viñuela"
+ },
+ {
+  "ine": "29100",
+  "lat": 36.73128747,
+  "lon": -4.92100984,
+  "nombre": "Yunquera"
+ },
+ {
+  "ine": "29901",
+  "lat": 36.62118405,
+  "lon": -4.49759729,
+  "nombre": "Torremolinos"
+ },
+ {
+  "ine": "29902",
+  "lat": 36.92952633,
+  "lon": -4.53056286,
+  "nombre": "Villanueva de la Concepción"
+ },
+ {
+  "ine": "29903",
+  "lat": 36.81603651,
+  "lon": -5.29871013,
+  "nombre": "Montecorto"
+ },
+ {
+  "ine": "29904",
+  "lat": 36.88543225,
+  "lon": -4.98096546,
+  "nombre": "Serrato"
+ }
+]

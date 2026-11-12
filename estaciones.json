@@ -1,0 +1,220 @@
+{
+ "5582A": {
+  "alt": 593.34,
+  "id": "5582A",
+  "lat": 37.161109,
+  "lon": -4.152781,
+  "nombre": "LOJA"
+ },
+ "5598X": {
+  "alt": 465.0,
+  "id": "5598X",
+  "lat": 37.230931,
+  "lon": -4.547788,
+  "nombre": "BENAMEJÍ-ALCACHOFARES ALTOS"
+ },
+ "5612B": {
+  "alt": 410.0,
+  "id": "5612B",
+  "lat": 37.194443,
+  "lon": -4.769994,
+  "nombre": "RODA DE ANDALUCÍA"
+ },
+ "5911X": {
+  "alt": 935.0,
+  "id": "5911X",
+  "lat": 36.760278,
+  "lon": -5.375,
+  "nombre": "GRAZALEMA-HELIPUERTO"
+ },
+ "5919X": {
+  "alt": 530.0,
+  "id": "5919X",
+  "lat": 36.931669,
+  "lon": -5.259446,
+  "nombre": "OLVERA-COOP.AGRÍCOLA"
+ },
+ "6032X": {
+  "alt": 760.0,
+  "id": "6032X",
+  "lat": 36.749997,
+  "lon": -5.168615,
+  "nombre": "RONDA INSTITUTO",
+  "provincia": "MALAGA"
+ },
+ "6040X": {
+  "alt": 315.0,
+  "id": "6040X",
+  "lat": 36.544447,
+  "lon": -5.386393,
+  "nombre": "CORTES DE LA FRONTERA",
+  "provincia": "MALAGA"
+ },
+ "6045X": {
+  "alt": 676.0,
+  "id": "6045X",
+  "lat": 36.632501,
+  "lon": -5.20306,
+  "nombre": "ALPANDEIRE",
+  "provincia": "MALAGA"
+ },
+ "6050X": {
+  "alt": 594.0,
+  "id": "6050X",
+  "lat": 36.51861,
+  "lon": -5.318613,
+  "nombre": "GAUCÍN",
+  "provincia": "MALAGA"
+ },
+ "6057X": {
+  "alt": 140.0,
+  "id": "6057X",
+  "lat": 36.378333,
+  "lon": -5.26,
+  "nombre": "MANILVA",
+  "provincia": "MALAGA"
+ },
+ "6058I": {
+  "alt": 19.0,
+  "id": "6058I",
+  "lat": 36.416954,
+  "lon": -5.154988,
+  "nombre": "ESTEPONA",
+  "provincia": "MALAGA"
+ },
+ "6069X": {
+  "alt": 392.0,
+  "id": "6069X",
+  "lat": 36.543613,
+  "lon": -5.024724,
+  "nombre": "BENAHAVÍS",
+  "provincia": "MALAGA"
+ },
+ "6076X": {
+  "alt": 2.0,
+  "id": "6076X",
+  "lat": 36.484445,
+  "lon": -4.953051,
+  "nombre": "MARBELLA, PUERTO",
+  "provincia": "MALAGA"
+ },
+ "6083X": {
+  "alt": 2.0,
+  "id": "6083X",
+  "lat": 36.483333,
+  "lon": -4.740278,
+  "nombre": "MARBELLA",
+  "provincia": "MALAGA"
+ },
+ "6088X": {
+  "alt": 85.0,
+  "id": "6088X",
+  "lat": 36.620554,
+  "lon": -4.514998,
+  "nombre": "TORREMOLINOS",
+  "provincia": "MALAGA"
+ },
+ "6100B": {
+  "alt": 515.0,
+  "id": "6100B",
+  "lat": 37.023611,
+  "lon": -4.562222,
+  "nombre": "ANTEQUERA",
+  "provincia": "MALAGA"
+ },
+ "6106X": {
+  "alt": 408.0,
+  "id": "6106X",
+  "lat": 37.03,
+  "lon": -4.749722,
+  "nombre": "ANTEQUERA",
+  "provincia": "MALAGA"
+ },
+ "6127X": {
+  "alt": 172.0,
+  "id": "6127X",
+  "lat": 36.854723,
+  "lon": -4.69667,
+  "nombre": "ÁLORA",
+  "provincia": "MALAGA"
+ },
+ "6143X": {
+  "alt": 230.0,
+  "id": "6143X",
+  "lat": 36.65778,
+  "lon": -4.760827,
+  "nombre": "COÍN",
+  "provincia": "MALAGA"
+ },
+ "6155A": {
+  "alt": 6.54,
+  "id": "6155A",
+  "lat": 36.666118,
+  "lon": -4.482307,
+  "nombre": "MÁLAGA AEROPUERTO",
+  "provincia": "MALAGA"
+ },
+ "6156X": {
+  "alt": 54.0,
+  "id": "6156X",
+  "lat": 36.717784,
+  "lon": -4.48167,
+  "nombre": "MÁLAGA, CENTRO METEOROLÓGICO",
+  "provincia": "MALAGA"
+ },
+ "6172Y": {
+  "alt": 5.5,
+  "id": "6172Y",
+  "lat": 36.7075,
+  "lon": -4.427222,
+  "nombre": "MÁLAGA PUERTO  OCEANOGRÁFICO"
+ },
+ "6175X": {
+  "alt": 7.0,
+  "id": "6175X",
+  "lat": 36.715046,
+  "lon": -4.286128,
+  "nombre": "RINCÓN DE LA VICTORIA",
+  "provincia": "MALAGA"
+ },
+ "6199X": {
+  "alt": 41.0,
+  "id": "6199X",
+  "lat": 36.768611,
+  "lon": -4.093611,
+  "nombre": "VÉLEZ-MÁLAGA",
+  "provincia": "MALAGA"
+ },
+ "6201X": {
+  "alt": 35.0,
+  "id": "6201X",
+  "lat": 36.755836,
+  "lon": -4.043892,
+  "nombre": "ALGARROBO",
+  "provincia": "MALAGA"
+ },
+ "6205X": {
+  "alt": 3.0,
+  "id": "6205X",
+  "lat": 36.726384,
+  "lon": -3.95722,
+  "nombre": "TORROX",
+  "provincia": "MALAGA"
+ },
+ "6213X": {
+  "alt": 169.0,
+  "id": "6213X",
+  "lat": 36.762776,
+  "lon": -3.845275,
+  "nombre": "NERJA",
+  "provincia": "MALAGA"
+ },
+ "6375X": {
+  "alt": 420.0,
+  "id": "6375X",
+  "lat": 37.132343,
+  "lon": -4.742002,
+  "nombre": "FUENTE DE PIEDRA",
+  "provincia": "MALAGA"
+ }
+}

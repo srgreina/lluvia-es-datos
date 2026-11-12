@@ -1,0 +1,723 @@
+{
+ "29001": {
+  "distancia_km": 9.9,
+  "estacion": "5612B",
+  "estacion_nombre": "RODA DE ANDALUCÍA",
+  "orientativo": false,
+  "propia": false
+ },
+ "29002": {
+  "distancia_km": 15.0,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29003": {
+  "distancia_km": 20.8,
+  "estacion": "5582A",
+  "estacion_nombre": "LOJA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29004": {
+  "distancia_km": 22.8,
+  "estacion": "5582A",
+  "estacion_nombre": "LOJA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29005": {
+  "distancia_km": 2.0,
+  "estacion": "6201X",
+  "estacion_nombre": "ALGARROBO (LA MAYORA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": true
+ },
+ "29006": {
+  "distancia_km": 7.3,
+  "estacion": "6050X",
+  "estacion_nombre": "GAUCÍN",
+  "orientativo": false,
+  "propia": false
+ },
+ "29007": {
+  "distancia_km": 6.2,
+  "estacion": "6088X",
+  "estacion_nombre": "TORREMOLINOS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29008": {
+  "distancia_km": 6.7,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29009": {
+  "distancia_km": 11.8,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29010": {
+  "distancia_km": 22.6,
+  "estacion": "5919X",
+  "estacion_nombre": "OLVERA-COOP.AGRÍCOLA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29011": {
+  "distancia_km": 13.0,
+  "estacion": "6156X",
+  "estacion_nombre": "MÁLAGA  CENTRO METEOROLÓGICO",
+  "orientativo": false,
+  "propia": false
+ },
+ "29012": {
+  "distancia_km": 3.9,
+  "estacion": "6127X",
+  "estacion_nombre": "ÁLORA  LAS PELONAS",
+  "orientativo": false,
+  "propia": true
+ },
+ "29013": {
+  "distancia_km": 11.5,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29014": {
+  "distancia_km": 0.1,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": true
+ },
+ "29015": {
+  "distancia_km": 1.1,
+  "estacion": "6100B",
+  "estacion_nombre": "ANTEQUERA",
+  "orientativo": false,
+  "propia": true
+ },
+ "29016": {
+  "distancia_km": 10.4,
+  "estacion": "6201X",
+  "estacion_nombre": "ALGARROBO (LA MAYORA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29017": {
+  "distancia_km": 17.3,
+  "estacion": "6100B",
+  "estacion_nombre": "ANTEQUERA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29018": {
+  "distancia_km": 13.5,
+  "estacion": "6127X",
+  "estacion_nombre": "ÁLORA  LAS PELONAS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29019": {
+  "distancia_km": 6.7,
+  "estacion": "6201X",
+  "estacion_nombre": "ALGARROBO (LA MAYORA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29020": {
+  "distancia_km": 5.9,
+  "estacion": "6032X",
+  "estacion_nombre": "RONDA  IES",
+  "orientativo": false,
+  "propia": false
+ },
+ "29021": {
+  "distancia_km": 3.9,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29022": {
+  "distancia_km": 6.6,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29023": {
+  "distancia_km": 2.9,
+  "estacion": "6069X",
+  "estacion_nombre": "BENAHAVIS (LA ZAGALETA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": true
+ },
+ "29024": {
+  "distancia_km": 6.7,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29025": {
+  "distancia_km": 6.0,
+  "estacion": "6088X",
+  "estacion_nombre": "TORREMOLINOS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29026": {
+  "distancia_km": 11.5,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29027": {
+  "distancia_km": 6.4,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29028": {
+  "distancia_km": 8.3,
+  "estacion": "6032X",
+  "estacion_nombre": "RONDA  IES",
+  "orientativo": false,
+  "propia": false
+ },
+ "29029": {
+  "distancia_km": 5.3,
+  "estacion": "6050X",
+  "estacion_nombre": "GAUCÍN",
+  "orientativo": false,
+  "propia": false
+ },
+ "29030": {
+  "distancia_km": 11.9,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29031": {
+  "distancia_km": 20.3,
+  "estacion": "6032X",
+  "estacion_nombre": "RONDA  IES",
+  "orientativo": true,
+  "propia": false
+ },
+ "29032": {
+  "distancia_km": 10.2,
+  "estacion": "6106X",
+  "estacion_nombre": "ANTEQUERA-BOBADILLA",
+  "orientativo": false,
+  "propia": false
+ },
+ "29033": {
+  "distancia_km": 11.7,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29034": {
+  "distancia_km": 11.2,
+  "estacion": "6201X",
+  "estacion_nombre": "ALGARROBO (LA MAYORA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29035": {
+  "distancia_km": 21.1,
+  "estacion": "5919X",
+  "estacion_nombre": "OLVERA-COOP.AGRÍCOLA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29036": {
+  "distancia_km": 11.0,
+  "estacion": "6127X",
+  "estacion_nombre": "ÁLORA  LAS PELONAS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29037": {
+  "distancia_km": 4.6,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29038": {
+  "distancia_km": 12.9,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29039": {
+  "distancia_km": 18.6,
+  "estacion": "6100B",
+  "estacion_nombre": "ANTEQUERA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29040": {
+  "distancia_km": 15.2,
+  "estacion": "6127X",
+  "estacion_nombre": "ÁLORA  LAS PELONAS",
+  "orientativo": true,
+  "propia": false
+ },
+ "29041": {
+  "distancia_km": 7.3,
+  "estacion": "6057X",
+  "estacion_nombre": "MANILVA",
+  "orientativo": false,
+  "propia": false
+ },
+ "29042": {
+  "distancia_km": 0.3,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": false,
+  "propia": true
+ },
+ "29043": {
+  "distancia_km": 21.4,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": true,
+  "propia": false
+ },
+ "29044": {
+  "distancia_km": 15.4,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": true,
+  "propia": false
+ },
+ "29045": {
+  "distancia_km": 10.5,
+  "estacion": "6201X",
+  "estacion_nombre": "ALGARROBO (LA MAYORA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29046": {
+  "distancia_km": 9.1,
+  "estacion": "6040X",
+  "estacion_nombre": "CORTES DE LA FRONTERA",
+  "orientativo": false,
+  "propia": true
+ },
+ "29047": {
+  "distancia_km": 5.3,
+  "estacion": "5598X",
+  "estacion_nombre": "BENAMEJÍ-ALCACHOFARES ALTOS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29048": {
+  "distancia_km": 17.7,
+  "estacion": "6032X",
+  "estacion_nombre": "RONDA  IES",
+  "orientativo": true,
+  "propia": false
+ },
+ "29049": {
+  "distancia_km": 12.5,
+  "estacion": "5598X",
+  "estacion_nombre": "BENAMEJÍ-ALCACHOFARES ALTOS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29050": {
+  "distancia_km": 13.9,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29051": {
+  "distancia_km": 1.3,
+  "estacion": "6058I",
+  "estacion_nombre": "ESTEPONA",
+  "orientativo": false,
+  "propia": true
+ },
+ "29052": {
+  "distancia_km": 2.2,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29053": {
+  "distancia_km": 5.8,
+  "estacion": "6213X",
+  "estacion_nombre": "NERJA (CUEVAS DE NERJA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29054": {
+  "distancia_km": 12.1,
+  "estacion": "6083X",
+  "estacion_nombre": "MARBELLA  CABOPINO",
+  "orientativo": false,
+  "propia": false
+ },
+ "29055": {
+  "distancia_km": 1.0,
+  "estacion": "6375X",
+  "estacion_nombre": "FUENTE DE PIEDRA ",
+  "orientativo": false,
+  "propia": true
+ },
+ "29056": {
+  "distancia_km": 0.4,
+  "estacion": "6050X",
+  "estacion_nombre": "GAUCÍN",
+  "orientativo": false,
+  "propia": true
+ },
+ "29057": {
+  "distancia_km": 7.9,
+  "estacion": "6050X",
+  "estacion_nombre": "GAUCÍN",
+  "orientativo": false,
+  "propia": false
+ },
+ "29058": {
+  "distancia_km": 6.5,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29059": {
+  "distancia_km": 4.2,
+  "estacion": "6375X",
+  "estacion_nombre": "FUENTE DE PIEDRA ",
+  "orientativo": false,
+  "propia": false
+ },
+ "29060": {
+  "distancia_km": 7.3,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29061": {
+  "distancia_km": 7.9,
+  "estacion": "6069X",
+  "estacion_nombre": "BENAHAVIS (LA ZAGALETA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29062": {
+  "distancia_km": 8.2,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29063": {
+  "distancia_km": 6.7,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29064": {
+  "distancia_km": 7.6,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29065": {
+  "distancia_km": 3.0,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29066": {
+  "distancia_km": 8.3,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29067": {
+  "distancia_km": 1.6,
+  "estacion": "6172Y",
+  "estacion_nombre": "MÁLAGA PUERTO  OCEANOGRÁFICO",
+  "orientativo": false,
+  "propia": true
+ },
+ "29068": {
+  "distancia_km": 0.9,
+  "estacion": "6057X",
+  "estacion_nombre": "MANILVA",
+  "orientativo": false,
+  "propia": true
+ },
+ "29069": {
+  "distancia_km": 6.8,
+  "estacion": "6076X",
+  "estacion_nombre": "MARBELLA (PUERTO BANUS - AUTOMATICA)",
+  "orientativo": false,
+  "propia": true
+ },
+ "29070": {
+  "distancia_km": 11.5,
+  "estacion": "6088X",
+  "estacion_nombre": "TORREMOLINOS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29071": {
+  "distancia_km": 6.9,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29072": {
+  "distancia_km": 7.5,
+  "estacion": "6375X",
+  "estacion_nombre": "FUENTE DE PIEDRA ",
+  "orientativo": false,
+  "propia": false
+ },
+ "29073": {
+  "distancia_km": 7.1,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29074": {
+  "distancia_km": 7.6,
+  "estacion": "6032X",
+  "estacion_nombre": "RONDA  IES",
+  "orientativo": false,
+  "propia": false
+ },
+ "29075": {
+  "distancia_km": 3.4,
+  "estacion": "6213X",
+  "estacion_nombre": "NERJA (CUEVAS DE NERJA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": true
+ },
+ "29076": {
+  "distancia_km": 12.4,
+  "estacion": "6076X",
+  "estacion_nombre": "MARBELLA (PUERTO BANUS - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29077": {
+  "distancia_km": 7.1,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29079": {
+  "distancia_km": 19.6,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": true,
+  "propia": false
+ },
+ "29080": {
+  "distancia_km": 9.8,
+  "estacion": "6127X",
+  "estacion_nombre": "ÁLORA  LAS PELONAS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29081": {
+  "distancia_km": 5.3,
+  "estacion": "6045X",
+  "estacion_nombre": "ALPANDEIRE",
+  "orientativo": false,
+  "propia": false
+ },
+ "29082": {
+  "distancia_km": 0.6,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": true
+ },
+ "29083": {
+  "distancia_km": 22.3,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": true,
+  "propia": false
+ },
+ "29084": {
+  "distancia_km": 1.4,
+  "estacion": "6032X",
+  "estacion_nombre": "RONDA  IES",
+  "orientativo": false,
+  "propia": true
+ },
+ "29085": {
+  "distancia_km": 11.1,
+  "estacion": "6201X",
+  "estacion_nombre": "ALGARROBO (LA MAYORA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29086": {
+  "distancia_km": 5.5,
+  "estacion": "6201X",
+  "estacion_nombre": "ALGARROBO (LA MAYORA - AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29087": {
+  "distancia_km": 11.6,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29088": {
+  "distancia_km": 11.3,
+  "estacion": "6375X",
+  "estacion_nombre": "FUENTE DE PIEDRA ",
+  "orientativo": false,
+  "propia": false
+ },
+ "29089": {
+  "distancia_km": 16.2,
+  "estacion": "6106X",
+  "estacion_nombre": "ANTEQUERA-BOBADILLA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29090": {
+  "distancia_km": 13.2,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29091": {
+  "distancia_km": 3.6,
+  "estacion": "6205X",
+  "estacion_nombre": "TORROX FARO",
+  "orientativo": false,
+  "propia": true
+ },
+ "29092": {
+  "distancia_km": 5.7,
+  "estacion": "6175X",
+  "estacion_nombre": "RINCON DE LA VICTORIA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29093": {
+  "distancia_km": 8.6,
+  "estacion": "6127X",
+  "estacion_nombre": "ÁLORA  LAS PELONAS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29094": {
+  "distancia_km": 1.7,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29095": {
+  "distancia_km": 9.9,
+  "estacion": "5598X",
+  "estacion_nombre": "BENAMEJÍ-ALCACHOFARES ALTOS",
+  "orientativo": false,
+  "propia": false
+ },
+ "29096": {
+  "distancia_km": 17.9,
+  "estacion": "6100B",
+  "estacion_nombre": "ANTEQUERA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29097": {
+  "distancia_km": 20.0,
+  "estacion": "6100B",
+  "estacion_nombre": "ANTEQUERA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29098": {
+  "distancia_km": 16.3,
+  "estacion": "5582A",
+  "estacion_nombre": "LOJA",
+  "orientativo": true,
+  "propia": false
+ },
+ "29099": {
+  "distancia_km": 11.2,
+  "estacion": "6199X",
+  "estacion_nombre": "VELEZ MALAGA (AUTOMATICA)",
+  "orientativo": false,
+  "propia": false
+ },
+ "29100": {
+  "distancia_km": 16.5,
+  "estacion": "6143X",
+  "estacion_nombre": "COIN (AUTOMATICA)",
+  "orientativo": true,
+  "propia": false
+ },
+ "29901": {
+  "distancia_km": 1.6,
+  "estacion": "6088X",
+  "estacion_nombre": "TORREMOLINOS",
+  "orientativo": false,
+  "propia": true
+ },
+ "29902": {
+  "distancia_km": 10.8,
+  "estacion": "6100B",
+  "estacion_nombre": "ANTEQUERA",
+  "orientativo": false,
+  "propia": false
+ },
+ "29903": {
+  "distancia_km": 9.2,
+  "estacion": "5911X",
+  "estacion_nombre": "GRAZALEMA-HELIPUERTO",
+  "orientativo": false,
+  "propia": false
+ },
+ "29904": {
+  "distancia_km": 22.5,
+  "estacion": "6032X",
+  "estacion_nombre": "RONDA  IES",
+  "orientativo": true,
+  "propia": false
+ }
+}

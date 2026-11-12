@@ -2,7 +2,7 @@
  "embalses": {
   "16": {
    "capacidad_hm3": 57.54,
-   "nombre": "Concepción",
+   "nombre": "La Concepción",
    "pct": 46.7,
    "pct_anio_ant": 59.1,
    "pct_sem_ant": 45.8,
@@ -57,7 +57,7 @@
   },
   "31": {
    "capacidad_hm3": 66.49,
-   "nombre": "Conde De Guadalhorce",
+   "nombre": "Conde de Guadalhorce",
    "pct": 57.8,
    "pct_anio_ant": 42.4,
    "pct_sem_ant": 58.4,
@@ -68,7 +68,7 @@
   },
   "37": {
    "capacidad_hm3": 164.37,
-   "nombre": "Viñuela",
+   "nombre": "La Viñuela",
    "pct": 83.3,
    "pct_anio_ant": 41.6,
    "pct_sem_ant": 83.2,

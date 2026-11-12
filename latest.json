@@ -3,17 +3,23 @@
   "5582A": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
-     "mm": 0.0
+     "horas_con_dato": 1,
+     "mm": 0.5
     },
     "24h": {
-     "horas_con_dato": 12,
-     "mm": 4.1
+     "horas_con_dato": 13,
+     "mm": 4.6
     },
     "6h": {
-     "horas_con_dato": 5,
-     "mm": 1.8
+     "horas_con_dato": 6,
+     "mm": 2.3
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 4.6
    },
    "serie": [
     {
@@ -63,23 +69,33 @@
     {
      "mm": 0.1,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.5,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "5598X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 1.2
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.4
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 1.2
    },
    "serie": [
     {
@@ -129,23 +145,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "5612B": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 0.8
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.8
    },
    "serie": [
     {
@@ -195,23 +221,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "5911X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 25.8
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 10.6
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 25.8
    },
    "serie": [
     {
@@ -261,6 +297,10 @@
     {
      "mm": 2.7,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
@@ -271,13 +311,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
+     "horas_con_dato": 12,
      "mm": 1.8
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 5,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 1.8
    },
    "serie": [
     {
@@ -323,6 +369,10 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   },
@@ -333,13 +383,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
+     "horas_con_dato": 12,
      "mm": 2.2
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 5,
      "mm": 0.4
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 2.2
    },
    "serie": [
     {
@@ -385,23 +441,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   },
   "6040X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 3.6
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 2.2
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 3.6
    },
    "serie": [
     {
@@ -451,6 +517,10 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
@@ -461,13 +531,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
-     "mm": 7.6
+     "horas_con_dato": 12,
+     "mm": 7.8
     },
     "6h": {
-     "horas_con_dato": 4,
-     "mm": 3.6
+     "horas_con_dato": 5,
+     "mm": 3.8
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 7.8
    },
    "serie": [
     {
@@ -513,6 +589,10 @@
     {
      "mm": 0.2,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.2,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   },
@@ -523,13 +603,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
+     "horas_con_dato": 12,
      "mm": 4.6
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 5,
      "mm": 2.4
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 4.6
    },
    "serie": [
     {
@@ -575,6 +661,10 @@
     {
      "mm": 1.0,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   },
@@ -585,13 +675,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
+     "horas_con_dato": 12,
      "mm": 1.6
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 5,
      "mm": 1.4
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 1.6
    },
    "serie": [
     {
@@ -637,23 +733,33 @@
     {
      "mm": 0.8,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   },
   "6058I": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 2.0
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 2.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 2.0
    },
    "serie": [
     {
@@ -703,23 +809,33 @@
     {
      "mm": 0.4,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "6069X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 0.2
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.2
    },
    "serie": [
     {
@@ -769,72 +885,14 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "6076X": {
-   "acumulado": {
-    "1h": {
-     "horas_con_dato": 0,
-     "mm": 0.0
-    },
-    "24h": {
-     "horas_con_dato": 11,
-     "mm": 0.0
-    },
-    "6h": {
-     "horas_con_dato": 4,
-     "mm": 0.0
-    }
-   },
-   "serie": [
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T04:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T05:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T06:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T07:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T08:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T09:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T10:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T11:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T12:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T13:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T14:00Z"
-    }
-   ]
-  },
-  "6083X": {
    "acumulado": {
     "1h": {
      "horas_con_dato": 0,
@@ -848,6 +906,12 @@
      "horas_con_dato": 5,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -900,20 +964,26 @@
     }
    ]
   },
-  "6088X": {
+  "6083X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
+     "horas_con_dato": 13,
      "mm": 0.0
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 6,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -959,10 +1029,18 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
-  "6100B": {
+  "6088X": {
    "acumulado": {
     "1h": {
      "horas_con_dato": 0,
@@ -970,12 +1048,90 @@
     },
     "24h": {
      "horas_con_dato": 12,
-     "mm": 1.4
+     "mm": 0.0
     },
     "6h": {
      "horas_con_dato": 5,
+     "mm": 0.0
+    }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 0.0
+   },
+   "serie": [
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T04:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T05:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T06:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T07:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T08:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T09:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T10:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T11:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T12:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T13:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
+    }
+   ]
+  },
+  "6100B": {
+   "acumulado": {
+    "1h": {
+     "horas_con_dato": 1,
+     "mm": 0.0
+    },
+    "24h": {
+     "horas_con_dato": 13,
+     "mm": 1.4
+    },
+    "6h": {
+     "horas_con_dato": 6,
      "mm": 0.4
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 1.4
    },
    "serie": [
     {
@@ -1025,23 +1181,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "6106X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 1.7
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.7
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 1.7
    },
    "serie": [
     {
@@ -1091,6 +1257,10 @@
     {
      "mm": 0.1,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
@@ -1101,13 +1271,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
+     "horas_con_dato": 12,
      "mm": 0.0
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 5,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -1153,23 +1329,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   },
   "6143X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 0.2
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.2
    },
    "serie": [
     {
@@ -1219,23 +1405,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "6155A": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 0.0
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -1285,23 +1481,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "6156X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 0.0
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -1351,23 +1557,33 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
   "6172Y": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 12,
+     "horas_con_dato": 13,
      "mm": 0.0
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -1417,6 +1633,10 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
@@ -1427,68 +1647,6 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
-     "mm": 0.0
-    },
-    "6h": {
-     "horas_con_dato": 4,
-     "mm": 0.0
-    }
-   },
-   "serie": [
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T04:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T05:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T06:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T07:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T08:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T09:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T10:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T11:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T12:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T13:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T14:00Z"
-    }
-   ]
-  },
-  "6199X": {
-   "acumulado": {
-    "1h": {
-     "horas_con_dato": 0,
-     "mm": 0.0
-    },
-    "24h": {
      "horas_con_dato": 12,
      "mm": 0.0
     },
@@ -1496,6 +1654,12 @@
      "horas_con_dato": 5,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -1545,6 +1709,82 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T15:00Z"
+    }
+   ]
+  },
+  "6199X": {
+   "acumulado": {
+    "1h": {
+     "horas_con_dato": 1,
+     "mm": 0.0
+    },
+    "24h": {
+     "horas_con_dato": 13,
+     "mm": 0.0
+    },
+    "6h": {
+     "horas_con_dato": 6,
+     "mm": 0.0
+    }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.0
+   },
+   "serie": [
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T04:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T05:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T06:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T07:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T08:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T09:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T10:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T11:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T12:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T13:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
     }
    ]
   },
@@ -1555,13 +1795,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
+     "horas_con_dato": 12,
      "mm": 0.2
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 5,
      "mm": 0.2
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 0.2
    },
    "serie": [
     {
@@ -1607,10 +1853,90 @@
     {
      "mm": 0.2,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   },
   "6205X": {
+   "acumulado": {
+    "1h": {
+     "horas_con_dato": 1,
+     "mm": 0.0
+    },
+    "24h": {
+     "horas_con_dato": 13,
+     "mm": 0.0
+    },
+    "6h": {
+     "horas_con_dato": 6,
+     "mm": 0.0
+    }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 13,
+    "horas_mes": 280,
+    "mm": 0.0
+   },
+   "serie": [
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T04:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T05:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T06:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T07:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T08:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T09:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T10:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T11:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T12:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T13:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T15:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-12T16:00Z"
+    }
+   ]
+  },
+  "6213X": {
    "acumulado": {
     "1h": {
      "horas_con_dato": 0,
@@ -1624,6 +1950,12 @@
      "horas_con_dato": 5,
      "mm": 0.0
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 0.0
    },
    "serie": [
     {
@@ -1676,68 +2008,6 @@
     }
    ]
   },
-  "6213X": {
-   "acumulado": {
-    "1h": {
-     "horas_con_dato": 0,
-     "mm": 0.0
-    },
-    "24h": {
-     "horas_con_dato": 11,
-     "mm": 0.0
-    },
-    "6h": {
-     "horas_con_dato": 4,
-     "mm": 0.0
-    }
-   },
-   "serie": [
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T04:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T05:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T06:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T07:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T08:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T09:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T10:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T11:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T12:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T13:00Z"
-    },
-    {
-     "mm": 0.0,
-     "t": "2026-11-12T14:00Z"
-    }
-   ]
-  },
   "6375X": {
    "acumulado": {
     "1h": {
@@ -1745,13 +2015,19 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 11,
-     "mm": 0.2
+     "horas_con_dato": 12,
+     "mm": 0.4
     },
     "6h": {
-     "horas_con_dato": 4,
-     "mm": 0.0
+     "horas_con_dato": 5,
+     "mm": 0.2
     }
+   },
+   "mes": {
+    "desde_utc": "2026-11-12T04:00Z",
+    "horas_con_dato": 12,
+    "horas_mes": 280,
+    "mm": 0.4
    },
    "serie": [
     {
@@ -1797,11 +2073,17 @@
     {
      "mm": 0.0,
      "t": "2026-11-12T14:00Z"
+    },
+    {
+     "mm": 0.2,
+     "t": "2026-11-12T15:00Z"
     }
    ]
   }
  },
- "fuente": "AEMET (CC BY 4.0, citar a AEMET)",
- "generado_utc": "2026-11-12T16:02Z",
+ "fuente": "AEMET (citar a AEMET como autora)",
+ "generado_utc": "2026-11-12T17:13Z",
+ "mes": "2026-11",
+ "ultima_obs_utc": "2026-11-12T16:00Z",
  "ventana_horas": 24
 }

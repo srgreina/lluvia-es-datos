@@ -1,5 +1,5 @@
 {
- "anio_fin": 2025,
+ "anio_fin": 2026,
  "anio_ini": 1996,
  "anios": {
   "2010": [
@@ -225,6 +225,20 @@
    21.8,
    42.6,
    69.6
+  ],
+  "2026": [
+   64.8,
+   62.4,
+   23.0,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  },
  "distancia_km": 1.2,

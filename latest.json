@@ -2731,8 +2731,8 @@
      "mm": 0.0
     },
     "30d": {
-     "horas_con_dato": 38,
-     "mm": 0.0
+     "horas_con_dato": 686,
+     "mm": 38.9
     },
     "48h": {
      "horas_con_dato": 38,
@@ -2743,15 +2743,20 @@
      "mm": 0.0
     },
     "7d": {
-     "horas_con_dato": 38,
-     "mm": 0.0
+     "horas_con_dato": 134,
+     "mm": 18.2
     }
    },
+   "dias_de": {
+    "distancia_km": 5.0,
+    "estacion": "6156X",
+    "nombre": "MÁLAGA, CENTRO METEOROLÓGICO"
+   },
    "mes": {
-    "desde_utc": "2026-11-12T04:00Z",
-    "horas_con_dato": 38,
+    "desde_utc": "2026-11-01T00:00Z",
+    "horas_con_dato": 278,
     "horas_mes": 305,
-    "mm": 0.0
+    "mm": 21.4
    },
    "serie": [
     {
@@ -3630,7 +3635,7 @@
   }
  },
  "fuente": "AEMET (citar a AEMET como autora)",
- "generado_utc": "2026-11-13T17:33Z",
+ "generado_utc": "2026-11-13T17:53Z",
  "mes": "2026-11",
  "ultima_obs_utc": "2026-11-13T17:00Z",
  "ventana_horas": 24

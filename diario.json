@@ -1,5 +1,5 @@
 {
- "actualizado_utc": "2026-11-13T17:22Z",
+ "actualizado_utc": "2026-11-13T17:52Z",
  "estaciones": {
   "5582A": {
    "2026-09-29": 0.0,
@@ -1194,5 +1194,12 @@
    "2026-11-10": 0.0
   }
  },
- "fuente": "AEMET (citar a AEMET como autora)"
+ "fuente": "AEMET (citar a AEMET como autora)",
+ "sustitutos": {
+  "6172Y": {
+   "distancia_km": 5.0,
+   "estacion": "6156X",
+   "nombre": "MÁLAGA, CENTRO METEOROLÓGICO"
+  }
+ }
 }

@@ -3,13 +3,13 @@
   "16": {
    "capacidad_hm3": 57.54,
    "nombre": "La Concepción",
-   "pct": 47.2,
-   "pct_anio_ant": 62.2,
+   "pct": 47.1,
+   "pct_anio_ant": 62.6,
    "pct_sem_ant": 45.4,
-   "promedio_8_anios_hm3": 31.8,
-   "volumen_anio_ant_hm3": 35.81,
-   "volumen_hm3": 27.14,
-   "volumen_sem_ant_hm3": 26.14
+   "promedio_8_anios_hm3": 31.7,
+   "volumen_anio_ant_hm3": 36.0,
+   "volumen_hm3": 27.1,
+   "volumen_sem_ant_hm3": 26.1
   },
   "19": {
    "capacidad_hm3": 21.72,
@@ -20,65 +20,65 @@
    "promedio_8_anios_hm3": 10.5,
    "volumen_anio_ant_hm3": 8.41,
    "volumen_hm3": 7.05,
-   "volumen_sem_ant_hm3": 7.04
+   "volumen_sem_ant_hm3": 7.03
   },
   "20": {
    "capacidad_hm3": 14.0,
    "nombre": "Limonero",
    "pct": 96.1,
-   "pct_anio_ant": 83.7,
+   "pct_anio_ant": 83.5,
    "pct_sem_ant": 96.4,
    "promedio_8_anios_hm3": 9.5,
-   "volumen_anio_ant_hm3": 11.72,
+   "volumen_anio_ant_hm3": 11.69,
    "volumen_hm3": 13.45,
-   "volumen_sem_ant_hm3": 13.5
+   "volumen_sem_ant_hm3": 13.49
   },
   "29": {
    "capacidad_hm3": 153.3,
    "nombre": "Guadalteba",
-   "pct": 93.5,
+   "pct": 93.6,
    "pct_anio_ant": 50.9,
    "pct_sem_ant": 93.3,
-   "promedio_8_anios_hm3": 77.8,
-   "volumen_anio_ant_hm3": 78.03,
-   "volumen_hm3": 143.38,
-   "volumen_sem_ant_hm3": 143.05
+   "promedio_8_anios_hm3": 77.7,
+   "volumen_anio_ant_hm3": 78.1,
+   "volumen_hm3": 143.43,
+   "volumen_sem_ant_hm3": 143.08
   },
   "30": {
    "capacidad_hm3": 125.72,
    "nombre": "Guadalhorce",
-   "pct": 81.9,
-   "pct_anio_ant": 34.9,
-   "pct_sem_ant": 81.9,
+   "pct": 82.0,
+   "pct_anio_ant": 35.0,
+   "pct_sem_ant": 81.7,
    "promedio_8_anios_hm3": 54.1,
-   "volumen_anio_ant_hm3": 43.91,
-   "volumen_hm3": 103.01,
-   "volumen_sem_ant_hm3": 103.01
+   "volumen_anio_ant_hm3": 43.95,
+   "volumen_hm3": 103.07,
+   "volumen_sem_ant_hm3": 102.71
   },
   "31": {
    "capacidad_hm3": 66.49,
    "nombre": "Conde de Guadalhorce",
    "pct": 57.2,
-   "pct_anio_ant": 43.0,
-   "pct_sem_ant": 57.8,
+   "pct_anio_ant": 43.2,
+   "pct_sem_ant": 57.7,
    "promedio_8_anios_hm3": 26.8,
-   "volumen_anio_ant_hm3": 28.58,
-   "volumen_hm3": 38.03,
-   "volumen_sem_ant_hm3": 38.42
+   "volumen_anio_ant_hm3": 28.75,
+   "volumen_hm3": 38.04,
+   "volumen_sem_ant_hm3": 38.34
   },
   "37": {
    "capacidad_hm3": 164.37,
    "nombre": "La Viñuela",
    "pct": 83.2,
-   "pct_anio_ant": 42.4,
+   "pct_anio_ant": 42.6,
    "pct_sem_ant": 83.1,
    "promedio_8_anios_hm3": 41.2,
-   "volumen_anio_ant_hm3": 69.77,
-   "volumen_hm3": 136.75,
-   "volumen_sem_ant_hm3": 136.64
+   "volumen_anio_ant_hm3": 70.0,
+   "volumen_hm3": 136.7,
+   "volumen_sem_ant_hm3": 136.59
   }
  },
- "fecha": "2026-11-17",
+ "fecha": "2026-11-18",
  "fuente": "SAIH Hidrosur (Junta de Andalucía). Datos de estaciones automáticas, no verificados y sin valor oficial.",
  "fuente_url": "https://www.redhidrosurmedioambiente.es/saih/informe/embalses",
  "hora": "08:00"

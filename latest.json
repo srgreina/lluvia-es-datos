@@ -1955,33 +1955,33 @@
   "6100B": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 23,
+     "horas_con_dato": 24,
      "mm": 2.0
     },
     "30d": {
-     "horas_con_dato": 672,
+     "horas_con_dato": 673,
      "mm": 28.4
     },
     "48h": {
-     "horas_con_dato": 47,
+     "horas_con_dato": 48,
      "mm": 3.2
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 2.0
     },
     "7d": {
-     "horas_con_dato": 165,
+     "horas_con_dato": 166,
      "mm": 7.4
     }
    },
    "mes": {
     "desde_utc": "2026-11-01T00:00Z",
-    "horas_con_dato": 432,
+    "horas_con_dato": 433,
     "horas_mes": 433,
     "mm": 28.4
    },
@@ -2077,6 +2077,10 @@
     {
      "mm": 0.0,
      "t": "2026-11-19T00:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-19T01:00Z"
     }
    ]
   },
@@ -2343,33 +2347,33 @@
   "6143X": {
    "acumulado": {
     "1h": {
-     "horas_con_dato": 0,
+     "horas_con_dato": 1,
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 23,
+     "horas_con_dato": 24,
      "mm": 0.0
     },
     "30d": {
-     "horas_con_dato": 696,
+     "horas_con_dato": 697,
      "mm": 102.0
     },
     "48h": {
-     "horas_con_dato": 47,
+     "horas_con_dato": 48,
      "mm": 0.0
     },
     "6h": {
-     "horas_con_dato": 5,
+     "horas_con_dato": 6,
      "mm": 0.0
     },
     "7d": {
-     "horas_con_dato": 165,
+     "horas_con_dato": 166,
      "mm": 0.2
     }
    },
    "mes": {
     "desde_utc": "2026-11-01T00:00Z",
-    "horas_con_dato": 432,
+    "horas_con_dato": 433,
     "horas_mes": 433,
     "mm": 102.0
    },
@@ -2465,6 +2469,10 @@
     {
      "mm": 0.0,
      "t": "2026-11-19T00:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-19T01:00Z"
     }
    ]
   },
@@ -2876,29 +2884,29 @@
      "mm": 0.0
     },
     "24h": {
-     "horas_con_dato": 22,
+     "horas_con_dato": 23,
      "mm": 0.0
     },
     "30d": {
-     "horas_con_dato": 695,
+     "horas_con_dato": 696,
      "mm": 45.0
     },
     "48h": {
-     "horas_con_dato": 46,
+     "horas_con_dato": 47,
      "mm": 0.0
     },
     "6h": {
-     "horas_con_dato": 4,
+     "horas_con_dato": 5,
      "mm": 0.0
     },
     "7d": {
-     "horas_con_dato": 164,
+     "horas_con_dato": 165,
      "mm": 0.0
     }
    },
    "mes": {
     "desde_utc": "2026-11-01T00:00Z",
-    "horas_con_dato": 431,
+    "horas_con_dato": 432,
     "horas_mes": 433,
     "mm": 44.4
    },
@@ -2990,6 +2998,10 @@
     {
      "mm": 0.0,
      "t": "2026-11-18T23:00Z"
+    },
+    {
+     "mm": 0.0,
+     "t": "2026-11-19T00:00Z"
     }
    ]
   },
@@ -3643,7 +3655,7 @@
   }
  },
  "fuente": "AEMET (citar a AEMET como autora)",
- "generado_utc": "2026-11-19T01:32Z",
+ "generado_utc": "2026-11-19T02:29Z",
  "mes": "2026-11",
  "ultima_obs_utc": "2026-11-19T01:00Z",
  "ventana_horas": 24
